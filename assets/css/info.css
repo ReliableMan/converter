@@ -1,0 +1,44 @@
+.size {
+  width: 70px;
+  height: 47px;
+}
+@media screen and (min-width: 200px) and (max-width: 1279px) {
+  .xl-size{
+    display:none
+  }
+}
+@media screen and (min-width: 768px) {
+  .size {
+  width: 86px;
+  height: 62px;
+  } 
+}
+@media screen and (min-width: 1280px) {
+  .size {
+    display:none
+  }
+  .xl-size {
+    width: 116px;
+    height: 116px;
+  }
+}
+@media screen and (min-width: 1600px) {
+  .xl-size {
+    width: 146px;
+    height: 146px
+  }
+}
+.photo1 {
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.photo2 {
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+.ph1 {
+  border-top-right-radius: 50px;
+}
+.ph2 {
+  border-bottom-left-radius: 50px;
+}

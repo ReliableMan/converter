@@ -1,0 +1,16 @@
+[
+  {
+    "name": "second",
+    "path": "/second",
+    "component": "/home/ilya/тестовое задание/converter/pages/second.vue",
+    "chunkName": "pages/second",
+    "_name": "_33e99d78"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/ilya/тестовое задание/converter/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_07f52732"
+  }
+]
